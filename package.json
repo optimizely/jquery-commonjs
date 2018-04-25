@@ -1,0 +1,12 @@
+{
+    "name": "jquery",
+    "version": "1.7.2",
+    "private": false,
+    "description": "jquery packaged as a commonjs module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/optimizely/jquery-commonjs.git"
+    },
+    "homepage": "https://github.com/optimizely/jquery-commonjs",
+    "main": "index.js"
+}
