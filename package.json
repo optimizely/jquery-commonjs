@@ -1,6 +1,6 @@
 {
     "name": "jquery",
-    "version": "1.7.2",
+    "version": "1.8.3",
     "private": false,
     "description": "jquery packaged as a commonjs module",
     "repository": {
