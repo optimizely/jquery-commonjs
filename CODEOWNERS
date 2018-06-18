@@ -1,9 +1,1 @@
-# OPTIMIZELY CODEOWNERS FILE
-# Each line is a file pattern followed by one or more owners.
-# Read more - https://help.github.com/articles/about-codeowners/
-
-# These owners will be the default owners for everything in
-# the repo. Unless a later match takes precedence,
-# @optimizely/frontend will be requested for
-# review when someone opens a pull request.
 *       @optimizely/frontend
